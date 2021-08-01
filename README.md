@@ -1,2 +1,2 @@
 # SistemaLocadora
-sistema desenvolvido  utilizando funções
+sistema desenvolvendo funções
